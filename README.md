@@ -1,5 +1,7 @@
-# Megatec UPS-Control library (C++)
+# Megatec UPS-Control library
 ![Example on Windows](./Screenshot.png)
+
+### The library can be compiled natively, so you can use it in any programming language!
 
 ## How does it work?
 
