@@ -1,4 +1,5 @@
-# UPS-Control C++ library
+# UPS-Control library
+![Example on Windows](./Screenshot.png)
 
 ## How does it work?
 
@@ -24,6 +25,9 @@ The library works with `libusb` (https://github.com/libusb/libusb), a cross-plat
 | 11    | Nothing              | Yes      | Cancel Test |
 | 13    | UPS Rating  | No       | |
 | 105   | Nothing              | Yes      | Power off UPS in 1 minute <br> During and after the UPS shutdown, the UPS status can still be retrieved. |
+
+## UPS Status
+The UPS status is returned by the library as a raw string. You need to parse it to get individual values. See the C# example `/examples/windows/main.cs` to see how to do it (start reading at line 88).
 
 ## Time conversion in `test_ups_with_time`
 

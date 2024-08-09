@@ -1,3 +1,5 @@
+// Compatible with the Mono C# JIT compiler
+
 using System;
 using System.Text;
 using System.Runtime.InteropServices;
