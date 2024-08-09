@@ -1,4 +1,4 @@
-# UPS-Control library
+# Megatec UPS-Control library (C++)
 ![Example on Windows](./Screenshot.png)
 
 ## How does it work?
