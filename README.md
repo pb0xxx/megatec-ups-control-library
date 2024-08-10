@@ -1,5 +1,5 @@
 # Megatec UPS-Control library
-![Example on Windows](./Screenshot.png)
+![Example on Windows 10](./Screenshot.png)
 
 ### The library can be compiled natively, so you can use it in any programming language!
 
